@@ -13,4 +13,4 @@ To use this software please substitute the file tasksList.csv with the task list
 
 Citation
 
-Please cite the following article if you use this tool 
+Please cite the following article if you use this tool: E.Denisova, E.Tiribilli, A.Luschi, E.Iadanza Enabling Reliable Usability Assessment and Comparative Analysis of Medical Software: A Comprehensive Framework for Multimodal Biomedical Imaging Platforms

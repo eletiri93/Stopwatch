@@ -9,7 +9,8 @@ recorded times and notes. At the end of the administration of each task, the
 observer is able to export a CSV (Comma Separated Values) file containing
 the recorded times and notes
 
-To use this software please substitute the file tasksList.csv with the task list for your test
+To lunch software a taskList.csv is required. Otherwise the interface will run, but all buttons will be disabled
+To use this software please substitute the file tasksList.csv with yours task list, and place it in teh build directory
 
 Citation
 

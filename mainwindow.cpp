@@ -26,7 +26,7 @@ MainWindow::MainWindow(QWidget *parent)
 
 bool MainWindow::init()
 {
-    QFile file("TabellaTask.csv");
+    QFile file("taskList.csv");
     if (!file.open(QIODevice::ReadOnly))
     {
         qDebug("failed");
